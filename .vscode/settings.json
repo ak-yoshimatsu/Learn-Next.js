@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "files.trimTrailingWhitespace": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "namespaceResolver.sortOnSave": true,
+  "editor.formatOnSave": true
+}
