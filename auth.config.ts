@@ -1,4 +1,3 @@
-'use client';
 import { NextAuthConfig } from 'next-auth';
 
 export const authConfig = {
